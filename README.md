@@ -6,3 +6,16 @@ The incubator is an apparatus that is used to regulate environmental conditions 
 An incubator should be able to set the perfect environment and condition for an egg to incubate because it regulates the factors such as temperature, humidity, and turning the eggs when necessary, so the egg is incubated properly because it plays the role of the hen in its natural state. 
 
 The modern hatchery manager's goal is to produce large numbers of uniform, robust, day-old chicks. Robustness is a health criterion, originating in the embryonic life stage of the chicken – and correlating directly with the performance and resistance of individual chicks under differing farm conditions.Incubating different species of birds at the same time is possible within the same incubator.
+
+#Functionalities:
+
+Our incubator is able to :
+* Count days of incubations
+* Display time
+* Controls humidity and temperature accurately
+* Provide interface to easily do tuning(further plaining to add automated method)
+* Support 200eggs up to 5000
+* Power management (Uninterruptiible algorithm with 2 sources: solar energy and line)
+
+#
+Our incubator may reach 95% of accuracy in production
