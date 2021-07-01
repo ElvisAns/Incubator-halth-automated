@@ -7,7 +7,7 @@ An incubator should be able to set the perfect environment and condition for an 
 
 The modern hatchery manager's goal is to produce large numbers of uniform, robust, day-old chicks. Robustness is a health criterion, originating in the embryonic life stage of the chicken – and correlating directly with the performance and resistance of individual chicks under differing farm conditions.Incubating different species of birds at the same time is possible within the same incubator.
 
-#Functionalities:
+# Functionalities:
 
 Our incubator is able to :
 * Count days of incubations
